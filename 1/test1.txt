@@ -1,0 +1,31 @@
+
+field1.txt
+The ball can reach the end of the maze at a given time
+Given time(the number of steps at the beginning): 1 lockable partitions n(steps): 2 opening partitions m(steps): 3 steps: 24
+field1.txt
+The ball can reach the end of the maze at a given time
+Given time(the number of steps at the beginning): 2 lockable partitions n(steps): 3 opening partitions m(steps): 5 steps: 38
+field1.txt
+The ball can reach the end of the maze at a given time
+Given time(the number of steps at the beginning): 3 lockable partitions n(steps): 2 opening partitions m(steps): 3 steps: 28
+field1.txt
+The ball can reach the end of the maze at a given time
+Given time(the number of steps at the beginning): 4 lockable partitions n(steps): 3 opening partitions m(steps): 4 steps: 84
+field1.txt
+The ball can reach the end of the maze at a given time
+Given time(the number of steps at the beginning): 5 lockable partitions n(steps): 2 opening partitions m(steps): 7 steps: 24
+field.txt
+The ball can reach the end of the maze at a given time
+Given time(the number of steps at the beginning): 1 lockable partitions n(steps): 2 opening partitions m(steps): 2 steps: 25
+field.txt
+The ball can reach the end of the maze at a given time
+Given time(the number of steps at the beginning): 2 lockable partitions n(steps): 7 opening partitions m(steps): 3 steps: 57
+field.txt
+The ball can reach the end of the maze at a given time
+Given time(the number of steps at the beginning): 3 lockable partitions n(steps): 2 opening partitions m(steps): 2 steps: 21
+field.txt
+The ball can reach the end of the maze at a given time
+Given time(the number of steps at the beginning): 4 lockable partitions n(steps): 3 opening partitions m(steps): 3 steps: 41
+field.txt
+The ball can reach the end of the maze at a given time
+Given time(the number of steps at the beginning): 5 lockable partitions n(steps): 2 opening partitions m(steps): 2 steps: 21
