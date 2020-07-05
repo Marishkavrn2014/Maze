@@ -1,0 +1,35 @@
+
+field.txt
+The ball does not always reach the finish line
+Given time(the number of steps at the beginning): 1 lockable partitions n(steps): 4 opening partitions m(steps): 2 steps: 0
+field.txt
+The ball does not always reach the finish line
+Given time(the number of steps at the beginning): 2 lockable partitions n(steps): 2 opening partitions m(steps): 2 steps: 0
+field.txt
+The ball does not always reach the finish line
+Given time(the number of steps at the beginning): 3 lockable partitions n(steps): 3 opening partitions m(steps): 2 steps: 0
+field.txt
+The ball does not always reach the finish line
+Given time(the number of steps at the beginning): 4 lockable partitions n(steps): 2 opening partitions m(steps): 2 steps: 0
+field.txt
+The ball does not always reach the finish line
+Given time(the number of steps at the beginning): 5 lockable partitions n(steps): 3 opening partitions m(steps): 2 steps: 0
+field1.txt
+The ball does not always reach the finish line
+Given time(the number of steps at the beginning): 1 lockable partitions n(steps): 2 opening partitions m(steps): 2 steps: 0
+field1.txt
+The ball does not always reach the finish line
+Given time(the number of steps at the beginning): 2 lockable partitions n(steps): 2 opening partitions m(steps): 2 steps: 0
+field1.txt
+The ball does not always reach the finish line
+Given time(the number of steps at the beginning): 3 lockable partitions n(steps): 2 opening partitions m(steps): 2 steps: 0
+field1.txt
+The ball does not always reach the finish line
+Given time(the number of steps at the beginning): 4 lockable partitions n(steps): 2 opening partitions m(steps): 2 steps: 0
+field1.txt
+The ball does not always reach the finish line
+Given time(the number of steps at the beginning): 5 lockable partitions n(steps): 2 opening partitions m(steps): 2 steps: 0
+field1.txt
+The ball does not always reach the finish line
+Given time(the number of steps at the beginning): 4 lockable partitions n(steps): 2 opening partitions m(steps): 2 steps: 0
+The ball reach the end of the maze at a given time
